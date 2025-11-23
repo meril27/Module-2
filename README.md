@@ -98,6 +98,7 @@ for i in range(a):
     print("")
 ```
 ## Output:
+<img width="1281" height="633" alt="image" src="https://github.com/user-attachments/assets/d9373b83-8e81-47f8-b40b-ad4602d0e757" />
 
 ## Result:
 Thus, the python program was executed successfully.
